@@ -16,6 +16,7 @@ public class DBHelper {
 	private static final String DBPASS;
 
 	static {
+		//ttttttttttttttt
 		URL = PropertiesUtil.getValue(PropertiesUtil.DBPROPERTIES, "URL");
 		DRIVERCLASS = PropertiesUtil.getValue(PropertiesUtil.DBPROPERTIES, "DRIVERCLASS");
 		DBNAME = PropertiesUtil.getValue(PropertiesUtil.DBPROPERTIES, "DBNAME");
