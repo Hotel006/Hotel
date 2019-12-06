@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- * 数据库访问工具类
+ *
  * 
  * @author Administrator
  *
