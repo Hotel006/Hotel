@@ -8,7 +8,7 @@
     </head>
     <body>
     	
-    	<h1>006组增删改查</h1>
+    	<h1>006组增删改查1</h1>
 		<table border="1px">
 			<tr>
 				<td>编号</td>
